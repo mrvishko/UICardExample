@@ -2,6 +2,8 @@
 
 This is a ui card display application in Flutter developed by Mohammad Hossein Khan Mohammadi(Vishko)
 dart 
+![Original cover photo](https://github.com/mrvishko/UICardExample/assets/93584165/02f2d649-6c9e-4043-9a19-c9de2d57c5ee)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
