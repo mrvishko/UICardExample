@@ -2,7 +2,10 @@
 
 This is a ui card display application in Flutter developed by Mohammad Hossein Khan Mohammadi(Vishko)
 dart 
+
 ![Original cover photo01](https://github.com/mrvishko/UICardExample/assets/93584165/336be352-303d-457d-b997-4f147ab0d5ad)
+
+Flutter application with a MaterialApp containing a single Scaffold. The Scaffold includes an AppBar with the title "UI Card Example" and a body that consists of a centered column containing a Card. The Card has a rounded rectangle shape, elevation, and contains an image, a name, and a description. The UI is a simple example of a profile card for a Flutter application developer named "VISHKO."
 
 ## Getting Started
 
